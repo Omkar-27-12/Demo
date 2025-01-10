@@ -2,3 +2,5 @@
 
  # student
  omkar
+ # Teacher
+ Ram
